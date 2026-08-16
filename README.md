@@ -22,10 +22,9 @@ A Roblox script for Fix It Up.
 ##  Installation
 
 ### 1. Obtain your key
-Get a free key from the [[discord server]](https://discord.gg/BsP9S2W28P).
+Get a free key from the [discord server](https://discord.gg/BsP9S2W28P).
 
 ### 2. Load the script
-
 Use the provided loader:
 
 ```lua
